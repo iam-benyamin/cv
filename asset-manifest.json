@@ -1,16 +1,42 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.7721306d.css",
-    "main.js": "/cv/static/js/main.64f08bad.js",
-    "static/js/787.a71561b8.chunk.js": "/cv/static/js/787.a71561b8.chunk.js",
-    "static/media/phone.png": "/cv/static/media/phone.741461537ee3f75c78b2.png",
-    "index.html": "/cv/index.html",
-    "main.7721306d.css.map": "/cv/static/css/main.7721306d.css.map",
-    "main.64f08bad.js.map": "/cv/static/js/main.64f08bad.js.map",
-    "787.a71561b8.chunk.js.map": "/cv/static/js/787.a71561b8.chunk.js.map"
+    "main.css": "/static/css/main.34c00e10.css",
+    "main.js": "/static/js/main.d05d81ed.js",
+    "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
+    "static/media/phone.png": "/static/media/phone.741461537ee3f75c78b2.png",
+    "static/media/Vazir-Light.eot": "/static/media/Vazir-Light.dd27df7f828b4a65cede.eot",
+    "static/media/Vazir-Light.ttf": "/static/media/Vazir-Light.cbb41bbc80aabe4a8be5.ttf",
+    "static/media/Vazir-Bold.eot": "/static/media/Vazir-Bold.ce0efe6cea93b773470c.eot",
+    "static/media/Vazir-Black.eot": "/static/media/Vazir-Black.f7e509df705527e74213.eot",
+    "static/media/Vazir-Bold.ttf": "/static/media/Vazir-Bold.6ca8f81989073f9a7f7b.ttf",
+    "static/media/Vazir-Black.ttf": "/static/media/Vazir-Black.88dbe0e03df0e3071026.ttf",
+    "static/media/Vazir-Medium.eot": "/static/media/Vazir-Medium.195c7fc26cfc4a62209c.eot",
+    "static/media/Vazir-Medium.ttf": "/static/media/Vazir-Medium.816a5ec7d7c58db86219.ttf",
+    "static/media/Vazir-Thin.eot": "/static/media/Vazir-Thin.3a5db120e4b9dce37b1b.eot",
+    "static/media/Vazir-Thin.ttf": "/static/media/Vazir-Thin.7bcf286deff6dd707224.ttf",
+    "static/media/Vazir-Regular.eot": "/static/media/Vazir-Regular.6ac404eb3f53dd9ce67f.eot",
+    "static/media/Vazir-Regular.ttf": "/static/media/Vazir-Regular.a24d67ce7f999b3cef04.ttf",
+    "static/media/me.jpg": "/static/media/me.035e054ccad3b21eb8de.jpg",
+    "static/media/Vazir-Light.woff": "/static/media/Vazir-Light.caa9f23dbd02e18916b0.woff",
+    "static/media/Vazir-Bold.woff": "/static/media/Vazir-Bold.7344d486ecbb56a9b3e5.woff",
+    "static/media/Vazir-Black.woff": "/static/media/Vazir-Black.ebc09d026eccef0942dd.woff",
+    "static/media/Vazir-Medium.woff": "/static/media/Vazir-Medium.d4368692b6af4ab42f19.woff",
+    "static/media/Vazir-Thin.woff": "/static/media/Vazir-Thin.84664efe6fd832ea3096.woff",
+    "static/media/Vazir-Regular.woff": "/static/media/Vazir-Regular.806537dbf5ba4d9ab402.woff",
+    "static/media/Vazir-Light.woff2": "/static/media/Vazir-Light.acb6acb54afc6a9a4423.woff2",
+    "static/media/Vazir-Bold.woff2": "/static/media/Vazir-Bold.0135812b3d7792a1ec26.woff2",
+    "static/media/Vazir-Black.woff2": "/static/media/Vazir-Black.185841df3f307c121958.woff2",
+    "static/media/Vazir-Medium.woff2": "/static/media/Vazir-Medium.1d7bcfd971cc881a83c6.woff2",
+    "static/media/Vazir-Thin.woff2": "/static/media/Vazir-Thin.84fabf66ff703ce087e8.woff2",
+    "static/media/Vazir-Regular.woff2": "/static/media/Vazir-Regular.a360dc26407972d3cb7d.woff2",
+    "static/media/codingfront.jpg": "/static/media/codingfront.b605934202da01cf4fed.jpg",
+    "index.html": "/index.html",
+    "main.34c00e10.css.map": "/static/css/main.34c00e10.css.map",
+    "main.d05d81ed.js.map": "/static/js/main.d05d81ed.js.map",
+    "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7721306d.css",
-    "static/js/main.64f08bad.js"
+    "static/css/main.34c00e10.css",
+    "static/js/main.d05d81ed.js"
   ]
 }
