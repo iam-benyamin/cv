@@ -9,7 +9,7 @@ export const HomeStyle = styled.div `
             padding: 10px;
             p {
                 font-size: 20px;
-                line-height: 1.6;
+                line-height: 2;
             }
         }
         .image {

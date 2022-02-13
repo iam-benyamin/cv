@@ -6,7 +6,7 @@ export const AboutMeStyle = styled.div `
     justify-content: space-between;
     .textContent {
         margin-left: 50px;
-        line-height: 1.7;
+        line-height: 2;
         font-size: 18px;
     }
     img {
