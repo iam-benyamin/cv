@@ -6,7 +6,7 @@ export const AboutMeStyle = styled.div `
     min-height: 70vh;
     img {
         position: absolute;
-        top: 15%;
+        top: 25%;
         right: 30%;
         z-index: -1;
         overflow: hidden;
